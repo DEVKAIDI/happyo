@@ -1,0 +1,22 @@
+{
+  "name": "momo",
+  "version": "1.0.0",
+  "description": "a package of information that contains all nessary packages for buliding the application using hapi framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEVKAIDI/happyo.git"
+  },
+  "author": "Momo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEVKAIDI/happyo/issues"
+  },
+  "homepage": "https://github.com/DEVKAIDI/happyo#readme",
+  "dependencies": {
+    "hapi": "^17.8.4"
+  }
+}
